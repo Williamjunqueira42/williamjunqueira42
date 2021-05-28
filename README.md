@@ -1,4 +1,4 @@
-﻿##Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+﻿## Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://github.com/Williamjunqueira42">
   <img align="left" alt="Git hub" width="px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
