@@ -11,8 +11,7 @@
   <img align="left" alt="Instagram" width="px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-
----
+<br> 
 Ola, Eu sou  William, mas pode me chamar de **Will** :v:. 
 
 Eu sou um desenvolvedor iniciante em python nascido e morando no Brasil 💚, **16 anos de idade** 👶🏻 e no 2º ano do **ensino médio** 🧐. 
