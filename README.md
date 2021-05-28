@@ -12,6 +12,7 @@
 </a>
 
 <br> 
+
 Ola, Eu sou  William, mas pode me chamar de **Will** :v:. 
 
 Eu sou um desenvolvedor iniciante em python nascido e morando no Brasil 💚, **16 anos de idade** 👶🏻 e no 2º ano do **ensino médio** 🧐. 
