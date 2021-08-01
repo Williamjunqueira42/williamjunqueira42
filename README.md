@@ -1,16 +1,5 @@
 ﻿## Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://github.com/Williamjunqueira42">
-  <img align="left" alt="Git hub" width="px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a><a target="_blank" href="https://twitter.com/willnukenin">
-  <img align="left" alt="Twitter" width="px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a><a target="_blank" href="https://www.instagram.com/williamnukenin/">
-  <img align="left" alt="Instagram" width="px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br>
-<br>
-
 Ola, Eu sou  William, mas pode me chamar de **Will** :v:. 
 
 Eu sou um desenvolvedor iniciante em python nascido e morando no Brasil 💚, **16 anos de idade** 👶🏻 e no 2º ano do **ensino médio** 🧐. 
