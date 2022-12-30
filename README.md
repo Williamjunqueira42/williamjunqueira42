@@ -2,11 +2,11 @@
 
 Ola, Eu sou  William, mas pode me chamar de **Will** :v:. 
 
-Eu sou um desenvolvedor iniciante em python nascido e morando no Brasil 💚, **17 anos de idade** 👶🏻 e no 3º ano do **ensino médio** 🧐. 
+Eu sou um desenvolvedor python nascido e morando no Brasil 💚, **17 anos de idade** 👶🏻
 
 **Um amante da ciência** 🔭, **aspirante a programador** 👨‍💻 e a um bom **jogador de  video games** 🎮.
 
-* 👩‍🎓 Cursando desenvolvimento de sistemas no Senai.
+* 👩‍🎓 formado em desenvolvimento de sistemas no Senai.
 * 💫 sempre procurando aprender.
 * 👽   Aprendendo qualquer tecnologia que apareça no meu caminho.
 ----
