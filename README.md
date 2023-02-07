@@ -1,20 +1,30 @@
 ﻿## Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Ola, Eu sou  William, mas pode me chamar de **Will** :v:. 
+Hello, my name is William but you can call me **Will** :v:. 
+ 
+brazilian python developer, coffee lover,  and learning any technology that comes my way. 👽 
 
-Eu sou um desenvolvedor python nascido e morando no Brasil 💚, **17 anos de idade** 👶🏻
+* graduated in systems development at SENAI. 👩‍🎓 
+* always looking to learn. 💫 
+*  I'm learning at moment **Java** ☕ and **Blockchain**
 
-**Um amante da ciência** 🔭, **aspirante a programador** 👨‍💻 e a um bom **jogador de  video games** 🎮.
 
-* 👩‍🎓 formado em desenvolvimento de sistemas no Senai.
-* 💫 sempre procurando aprender.
-* 👽   Aprendendo qualquer tecnologia que apareça no meu caminho.
+[![alttext](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`)](https://www.linkedin.com/in/williamjunqueira42/) [![alttext](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamjunqueira/)
+
 ----
-**Linguagens e Ferramentas:**  
 
-<img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img height="20" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+**Languages ​​and Tools:**
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E`) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white`)
+
+
+
+
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 💻
    
 ![William GitHub Stats](https://github-readme-stats.vercel.app/api?username=Williamjunqueira42&show_icons=true&theme=graywhite)
+[/![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjunqueira42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
