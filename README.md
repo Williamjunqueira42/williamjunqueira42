@@ -6,7 +6,7 @@ brazilian python developer, coffee lover,  and learning any technology that come
 
 * graduated in systems development at SENAI. 👩‍🎓 
 * always looking to learn. 💫 
-*  I'm learning at moment **Java** ☕ and **Blockchain**
+*  I'm learning at moment **Java** ☕ 
 
 
 [![alttext](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`)](https://www.linkedin.com/in/williamjunqueira42/) [![alttext](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamjunqueira/)
