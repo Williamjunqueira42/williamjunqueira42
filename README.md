@@ -2,11 +2,10 @@
 
 Hello, my name is William but you can call me **Will** :v:. 
  
-brazilian python developer, coffee lover,  and learning any technology that comes my way. 👽 
+brazilian developer, coffee lover, and learning any technology that comes my way. 👽 
 
-* graduated in systems development at SENAI. 👩‍🎓 
+* systems development technician. 👩‍🎓 
 * always looking to learn. 💫 
-*  I'm learning at moment **Java** ☕ 
 
 
 [![alttext](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`)](https://www.linkedin.com/in/williamjunqueira42/) [![alttext](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamjunqueira/)
