@@ -1,5 +1,5 @@
 
-﻿## Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h1>Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 Hello, my name is William but you can call me **Will** :v:. 
 brazilian developer, coffee lover, and learning any technology that comes my way. 👽
