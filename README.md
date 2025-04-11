@@ -1,5 +1,4 @@
-# Hello World, I'm William!  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br>
 
 ## About Me   
@@ -12,9 +11,7 @@ brazilian developer, coffee lover, and learning any technology that comes my way
 * Currently learning Java ☕
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamjunqueira74@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-junqueira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamjunqueira74@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-junqueira/)
 
 
 # Languages ​​and Tools:  
