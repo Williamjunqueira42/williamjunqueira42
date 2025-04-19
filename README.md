@@ -2,9 +2,9 @@
 
 ## About Me   
 
-Hello, my name is William but you can call me **Will** :v:. 
-brazilian developer, 
-coffee lover,  
+Hello, my name is William but you can call me **Will** :v:.   
+brazilian developer,   
+coffee lover,    
 and learning any technology that comes my way. 👽
 * systems development technician. 👩‍🎓 
 * always looking to learn. 💫  
