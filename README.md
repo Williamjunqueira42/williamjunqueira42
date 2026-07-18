@@ -5,12 +5,9 @@
 Hello, my name is William but you can call me **Will** :v:.   
 learning any technology that comes my way. 👽
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
-# Languages ​​and Tools:  
-
-
-![My Skills](https://skillicons.dev/icons?i=py,flask,git,github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjunqueira42&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamjunqueira42&show_icons=true&theme=radical)
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
